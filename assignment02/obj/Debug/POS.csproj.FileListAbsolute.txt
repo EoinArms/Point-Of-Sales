@@ -1,0 +1,16 @@
+C:\HN EDP Samples\LNF1AA02\assignment02\assignment02\bin\Debug\assignment02.exe.config
+C:\HN EDP Samples\LNF1AA02\assignment02\assignment02\obj\Debug\assignment02.exe
+C:\HN EDP Samples\LNF1AA02\assignment02\assignment02\obj\Debug\assignment02.pdb
+M:\Lisburn\First\assignment02\assignment02\bin\Debug\assignment02.exe.config
+M:\Lisburn\First\assignment02\assignment02\bin\Debug\assignment02.exe
+M:\Lisburn\First\assignment02\assignment02\bin\Debug\assignment02.pdb
+M:\Lisburn\First\assignment02\assignment02\obj\Debug\POS.csprojResolveAssemblyReference.cache
+M:\Lisburn\First\assignment02\assignment02\obj\Debug\assignment02.Properties.Resources.resources
+M:\Lisburn\First\assignment02\assignment02\obj\Debug\POS.csproj.GenerateResource.Cache
+M:\Lisburn\First\assignment02\assignment02\obj\Debug\assignment02.exe
+M:\Lisburn\First\assignment02\assignment02\obj\Debug\assignment02.pdb
+M:\Lisburn\First\assignment02\assignment02\obj\Debug\assignment02.frmMenu.resources
+M:\Lisburn\First\assignment02\assignment02\obj\Debug\assignment02.frmUserDetails.resources
+M:\Lisburn\First\assignment02\assignment02\obj\Debug\assignment02.frmComputerSpecification.resources
+M:\Lisburn\First\assignment02\assignment02\obj\Debug\assignment02.frmDelivery.resources
+M:\Lisburn\First\assignment02\assignment02\obj\Debug\assignment02.Invoice.resources
